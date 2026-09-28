@@ -14,5 +14,3 @@ As a Senior Mobile Engineer, I specialize in building robust mobile applications
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mak12&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
